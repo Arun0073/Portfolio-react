@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b26ec2f.css",
+    "main.js": "/static/js/main.7a4d9e41.js",
+    "static/media/tomato.png": "/static/media/tomato.13b51204167257d912a5.png",
+    "static/media/gym.png": "/static/media/gym.dbf99c750a9f1121eccd.png",
+    "static/media/youtube.png": "/static/media/youtube.448451842be3ef0b973a.png",
+    "static/media/beauty.png": "/static/media/beauty.b1a8ea54f556a1162d23.png",
+    "static/media/boy.png": "/static/media/boy.a46b7d6aec2dc618c794.png",
+    "static/media/Resume.pdf": "/static/media/Resume.a60e947a7133d7a0a4af.pdf",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.4b26ec2f.css.map": "/static/css/main.4b26ec2f.css.map",
+    "main.7a4d9e41.js.map": "/static/js/main.7a4d9e41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b26ec2f.css",
+    "static/js/main.7a4d9e41.js"
+  ]
+}
