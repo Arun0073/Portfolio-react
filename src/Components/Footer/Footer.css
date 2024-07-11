@@ -1,0 +1,27 @@
+.footer{
+    display: flex;
+    align-items: center;
+    margin: -0.5rem -3.5rem;
+    position: relative;
+    margin-top: -7rem;
+}
+.a-content{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 3rem;
+    gap: 3rem;
+    color: white;
+}
+.a-icons{
+    display: flex;
+    gap: 2rem;
+}
+@media screen and (max-width: 480px){
+    .a-content{
+      transform: scale(0.6);
+    }
+  }

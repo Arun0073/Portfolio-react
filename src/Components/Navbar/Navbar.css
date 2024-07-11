@@ -1,0 +1,48 @@
+.wrapper{
+    height: 10vh;
+    display: flex;
+justify-content: space-between;
+}
+.daaya{
+    flex: 1;
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+}
+.name{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+.people{
+    display: flex;
+    list-style: none;
+    gap: 3.5rem;
+    color: black;
+    font-weight: 600;
+    font-size: 1.2rem;
+    padding:0 10rem 0 0;
+    margin-top: 1.3rem;
+}
+li:hover{
+    color: var(--orange);
+    cursor: pointer;
+}
+
+@media screen and (max-width: 480px) {
+    .people{
+        display: flex;
+        flex-direction: column;
+        width: 5rem;
+        height: 15rem;
+        gap:2rem;
+        z-index: 22;
+        background: var(--orange);
+        padding: 1rem;
+        justify-content: center;
+        align-items: center;
+    }
+li:hover{
+background: white;
+color: var(--gray);
+    }
+  }
